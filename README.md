@@ -4,8 +4,9 @@ The following is a short example of building a simple command line
 utility to read and write objects to Riak.
 
 Items covered:
-      * Rebar
-      * Riak Erlang Client
+
+* Rebar
+* Riak Erlang Client
 
 ## Setup project directory
 
