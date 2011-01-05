@@ -5,8 +5,8 @@ utility to read and write objects to Riak.
 
 Items covered:
 
-* Rebar
-* Riak Erlang Client
+* [Rebar](https://github.com/basho/rebar)
+* [Riak Erlang Client](https://github.com/basho/riak-erlang-client)
 
 ## Setup project directory
 
@@ -106,8 +106,8 @@ write access to Riak. Two commands, get and put, will be supported.
 
 Examples:
 
-        sample_riak_erlang_client_app put bucket key value
-        sample_riak_erlang_client_app get bucket key
+    sample_riak_erlang_client_app put bucket key value
+    sample_riak_erlang_client_app get bucket key
 
 ## Get command
 
