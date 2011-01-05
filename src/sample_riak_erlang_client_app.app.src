@@ -1,0 +1,12 @@
+{application, sample_riak_erlang_client_app,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { sample_riak_erlang_client_app_app, []}},
+  {env, []}
+ ]}.
